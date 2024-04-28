@@ -1,0 +1,56 @@
+.nav{
+background:rgb(220,53,69);
+display: flex;
+justify-content: space-between;
+}
+
+h1{
+    color: white;
+   margin-top: 6%;
+   margin-right: 3%;
+   font-size: 300%;    
+}
+img{
+    width: 300px;
+    padding: 30px;
+    border-radius: 100%;
+}
+.inpt{
+    width: 1100px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: 12%;
+    border: 1px solid rgb(238, 221, 221);
+    font-size: 100%;
+    text-align: center;
+}
+.button{
+margin-top: 3%;
+text-align: center;
+}
+.btn{
+    background: rgb(220,53,69);
+    color: white;
+    border: none;
+    padding: 1%;
+    border-radius: 7px;
+    width: 15%;
+}
+
+.table{
+    width: 1100px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: 12%;
+    border: 1px solid rgb(238, 221, 221);
+    font-size: 18px;
+   
+}
+
+.list{
+    background: red;
+}
+
+
